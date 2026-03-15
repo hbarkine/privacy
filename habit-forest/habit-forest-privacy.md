@@ -15,7 +15,7 @@ When you use the App, certain information may be collected automatically to help
 Information about your device such as device model, operating system version, and general technical information necessary for the App to function properly.
 
 ### Usage Data
-Information about how you interact with the App, such as features used, progress within the app, and general interaction patterns. This information may be collected through analytics services such as **Firebase Analytics** to help us understand how the App is used and improve the user experience.
+Information about how you interact with the App, such as features used, app events, and general interaction patterns. This data is collected in aggregated form and does not personally identify users. Analytics services such as Firebase Analytics may be used to help understand how the App is used and improve the user experience.
 
 ### Purchase Information
 If you make purchases within the App, the transaction is processed securely by **Apple through the App Store**. We do not receive or store your payment information.
@@ -64,9 +64,9 @@ Analytics data may be retained only as long as necessary to analyze usage patter
 
 ## Children’s Privacy
 
-The App is **not directed to children under the age of 13**.
+The App can be used by users of all ages. The App does not knowingly collect personally identifiable information from children.
 
-If you are a parent or guardian and believe your child has provided personal information, please contact us and we will take steps to remove the information if necessary.
+If you are a parent or guardian and believe that a child has provided personal information through the App, please contact us and we will take steps to remove the information if necessary.
 
 ---
 
@@ -91,8 +91,9 @@ We take reasonable measures to protect information collected through the App. We
 
 ---
 
-## Data stored
-Habit data is stored locally on the user's device and is not transmitted to external servers. 
+## Data Storage
+
+Habit data created within the App is stored locally on the user's device and is not transmitted to external servers.
 
 ---
 
