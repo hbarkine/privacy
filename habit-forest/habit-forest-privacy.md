@@ -91,6 +91,11 @@ We take reasonable measures to protect information collected through the App. We
 
 ---
 
+## Data stored
+Habit data is stored locally on the user's device and is not transmitted to external servers. 
+
+---
+
 ## Changes to This Privacy Policy
 
 We may update this Privacy Policy from time to time. Any updates will be posted on this page with a revised effective date.
