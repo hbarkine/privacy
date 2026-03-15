@@ -26,4 +26,4 @@ Please restart the app and make sure you are using the latest version available 
 
 You can read our privacy policy here:
 
-[Privacy Policy](LINK_TO_PRIVACY_POLICY)
+(https://github.com/hbarkine/privacy/blob/main/habit-forest/habit-forest-privacy.md)
