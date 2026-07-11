@@ -22,7 +22,7 @@ This policy explains, in plain language, exactly what data Habit Forest: Grow ("
 
 ## 1. Who we are
 
-Habit Forest: Grow is developed and operated by **Haluk Barkın Evgin** as an individual developer. For any privacy question or request, contact **hbarkine@gmail.com**.
+"Habit Forest: Grow is developed and operated by Haluk Barkın Evgin, an individual developer operating through a registered sole proprietorship (Şahıs Şirketi) in Turkey.". For any privacy question or request, contact **hbarkine@gmail.com**.
 
 ---
 
