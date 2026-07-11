@@ -82,7 +82,7 @@ The app can send you **local reminders** (for example, habit reminders) schedule
 
 ### 2.6 Advertising
 
-**The app displays no advertisements and integrates no advertising networks.** (It contains only a non-functional placeholder ad module used during development, which serves no real ads and makes no network calls.)
+**The app displays no advertisements and integrates no advertising networks.** 
 
 ---
 
