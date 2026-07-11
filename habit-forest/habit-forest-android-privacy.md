@@ -1,6 +1,6 @@
 # Privacy Policy — Habit Forest: Grow
 
-**Effective date:** _[INSERT EFFECTIVE DATE — e.g., 11 July 2026]_
+**Effective date:** _11 July 2026_
 
 **App:** Habit Forest: Grow (`com.hbarkine.habitforest`)
 **Developer / Data Controller:** Haluk Barkın Evgin
